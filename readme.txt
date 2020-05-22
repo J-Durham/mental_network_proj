@@ -1,3 +1,5 @@
+This is an old homework assignment that is not to be used to cheat on other academic work
+This is simply available as a reference for other to see how I implemented my arithmatic algorithm
 HOW TO COMPILE
 -To compile the server without the makefile, use the command 'gcc -o mserver server.c -lm'
 -To compile the client without the makefile, use the command 'gcc -o client client.c'
